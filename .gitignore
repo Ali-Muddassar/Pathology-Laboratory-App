@@ -1,0 +1,25 @@
+﻿# Flutter/Dart
+.dart_tool/
+.build/
+build/
+windows/build/
+linux/build/
+macos/build/
+ios/build/
+android/build/
+web/build/
+*.iml
+*.lock
+*.log
+*.pid
+*.tmp
+*.swp
+.DS_Store
+.settings/
+.vscode/
+.idea/
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+**/generated_plugin_registrant.dart
+pubspec.lock
